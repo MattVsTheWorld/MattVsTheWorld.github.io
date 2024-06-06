@@ -1,90 +1,57 @@
-# Site settings
-title: Matteo Marcuzzo's PhD website # site title
-description: >- # site description
-  Personal website with basic information about my person, my interests and my studies.
-lang: en-US # default lang
-timezone: Europe/Rome  # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://mattvstheworld.github.io/ # site repo [optional]
-mode: dark # default theme "dark" | "light"
+# Basic Information 
+title: Matteo Marcuzzo
+position: Ph.D. Student
+affiliation: Ca' Foscari University of Venice
+email: matteo.marcuzzo (at) unive.it
 
-# Profile settings
-author:
-  name: Matteo Marcuzzo # author name
-  bio: >- # tell to the world
-    Matteo Marcuzzo BIO [TODO]
-  username: matteo.marcuzzo # general username
-  github: MattVsTheWorld # github username
-  # twitter: twitter_username # twitter username
-  # facebook: facebook_username # facebook username
-  email: matteo.marcuzzo@unive.it # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: minimal light
+description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://minimal-light-theme.yliu.me/
 
-# URL settings
-# url: "https://klise.now.sh" #
-baseurl:
-permalink: /:title/
-google_analytics: # leave it blank if not wish
-fb_appid:
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+# google_scholar: https://scholar.google.com/
+# cv_link: assets/files/curriculum_vitae.pdf
+github_link: https://github.com/mattvstheworld
+# linkedin: https://www.linkedin.com/
+# twitter: https://twitter.com/
 
-# Collection setting
-collections:
-  posts:
-    output: true
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/avatar.jpg
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
 
-# Markdown settings
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  syntax_highlighter: rouge
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: false
 
-# Default front matter
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: post
-      comments: false
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: false
 
-# Jekyll Compose default front matter
-jekyll_compose:
-  post_default_front_matter:
-    modified:
-    tags: []
-    description:
-  draft_default_front_matter:
-    modified:
-    tags: []
-    description:
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Serif" # or "Sans Serif"
 
-# Homepage limit posts
-number_of_posts: 5
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+# google_analytics: UA-111540567-4
 
-# Build settings
-# theme: klise
-sass:
-  style: compressed
+# Use this project as a remote theme for GitHub Pages
+# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+# remote_theme: yaoyao-liu/minimal-light
 
-include:
-  - _redirects
-  - .htaccess
-
+# The following files will be removed from the generated website.
 exclude:
-  - CNAME
   - Gemfile
   - Gemfile.lock
-  - LICENSE
-  - CHANGELOG.md
   - README.md
-  - node_modules
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - lighthouse.png
-  - klise-*.gem
-  - klise.gemspec
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-postfiles
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
+  - html_source_file/

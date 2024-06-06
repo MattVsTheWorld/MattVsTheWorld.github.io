@@ -1,0 +1,74 @@
+main:
+
+  - title: Hierarchical Text Classification and Its Foundations - A Review of Current Research 
+    authors: Alessandro Zangari, <strong>Matteo Marcuzzo</strong>*, Matteo Rizzo, Lorenzo Giudice, Andrea Albarelli, Andrea Gasparetto (*Corresponding authors)
+    conference_short: MDPI
+    conference: MDPI Electronics
+    pdf: https://www.mdpi.com/2079-9292/13/7/1199/pdf?version=1711455919
+    code: https://gitlab.com/distration/dsi-nlp-publib/-/tree/main/htc-survey-24?ref_type=heads
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/paper6.png
+    # notes: Early Accept
+
+  - title: Ticket automation - An insight into current research with applications to multi-level classification scenarios
+    authors: Alessandro Zangari, <strong>Matteo Marcuzzo</strong>*, Michele Schiavinato, Andrea Gasparetto, Andrea Albarelli (*Corresponding authors)
+    conference_short: ESWA
+    conference: Expert Systems With Applications
+    pdf: https://www.sciencedirect.com/science/article/pii/S0957417423004864/pdfft?md5=5af2a5a7f8f0f135eabb03949db73f53&pid=1-s2.0-S0957417423004864-main.pdf
+    code: https://gitlab.com/distration/dsi-nlp-publib/-/tree/main/ticket-automation-survey-app-22?ref_type=heads
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/paper5.png
+    # notes: Early Accept
+  
+  - title: Fruit ripeness classification - A survey
+    authors:  Matteo Rizzo*, <strong>Matteo Marcuzzo</strong>, Alessandro Zangari, Andrea Gasparetto, Andrea Albarelli (*Corresponding authors)
+    conference_short: KeAi
+    conference: Artificial Intelligence in Agriculture
+    pdf: https://www.sciencedirect.com/science/article/pii/S2589721723000065/pdfft?md5=027efb0ecbd28b694beaa0d05f41b66a&pid=1-s2.0-S2589721723000065-main.pdf
+    # code: https://gitlab.com/distration/dsi-nlp-publib/-/tree/main/WNUT22?ref_type=heads
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/paperF.png
+    # notes: Early Accept
+  - title: A multi-level approach for hierarchical Ticket Classification
+    authors:  <strong>Matteo Marcuzzo</strong>*, Alessandro Zangari, Michele Schiavinato, Lorenzo Giudice, Andrea Gasparetto, Andrea Albarelli (*Corresponding authors)
+    conference_short: W-NUT
+    conference: Eighth Workshop on Noisy User-generated Text 2022
+    pdf: https://aclanthology.org/2022.wnut-1.22.pdf
+    code: https://gitlab.com/distration/dsi-nlp-publib/-/tree/main/WNUT22?ref_type=heads
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/paper4.png
+    # notes: Early Accept
+
+  - title: Recommendation Systems - An Insight Into Current Development and Future Research Challenges
+    authors:  <strong>Matteo Marcuzzo</strong>, Alessandro Zangari, Andrea Albarelli, Andrea Gasparetto* (*Corresponding authors)
+    conference_short: IEEE
+    conference: IEEE Access
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9843966
+    # code: https://gitlab.com/distration/dsi-nlp-publib/-/tree/main/text-class-survey-22?ref_type=heads
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/paper3.png
+    # notes: Early Accept
+
+  - title: A survey on text classification - Practical perspectives on the Italian language
+    authors: Andrea Gasparetto*, Alessandro Zangari, <strong>Matteo Marcuzzo</strong>, Andrea Albarelli (*Corresponding authors)
+    conference_short: PLOS ONE
+    conference: PLOS ONE
+    pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0270904&type=printable
+    code: https://gitlab.com/distration/dsi-nlp-publib/-/tree/main/text-class-survey-22?ref_type=heads
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/paper2.PNG
+    # notes: Early Accept
+
+  - title: A Survey on Text Classification Algorithms - From Text to Predictions 
+    authors: Andrea Gasparetto*, <strong>Matteo Marcuzzo</strong>, Alessandro Zangari, Andrea Albarelli (*Corresponding authors)
+    conference_short: MDPI
+    conference: MDPI Information
+    pdf: https://www.mdpi.com/2078-2489/13/2/83/pdf?version=1644993135
+    code: https://gitlab.com/distration/dsi-nlp-publib/-/tree/main/text-class-survey-22?ref_type=heads
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/paper1.png
+    # notes: Early Accept
+
+
+
+    
