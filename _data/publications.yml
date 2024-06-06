@@ -56,7 +56,7 @@ main:
     pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0270904&type=printable
     code: https://gitlab.com/distration/dsi-nlp-publib/-/tree/main/text-class-survey-22?ref_type=heads
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/paper2.PNG
+    image: ./assets/img/paper2.png
     # notes: Early Accept
 
   - title: A Survey on Text Classification Algorithms - From Text to Predictions 
