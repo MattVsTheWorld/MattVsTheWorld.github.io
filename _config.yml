@@ -7,8 +7,8 @@ email: matteo.marcuzzo@unive.it
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: phd student AI ML machine learning natural language processing NLP
-description: PhD profiled .
-canonical: https://minimal-light-theme.yliu.me/
+description: Matteo Marcuzzo - Personal researcher website.
+canonical: https://mattvstheworld.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -26,7 +26,7 @@ favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: false
+enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme

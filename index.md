@@ -12,10 +12,10 @@ Beyond academics, I'm passionate about videogame design, music, and animals.
 
 ## Research Interests
 
-- **Explainable AI:** Explanation techniques, transparent models, XAI frameworks
-- **Natural Language Processing:** Text classification, interpretable NLP models
-- **Graph Machine Learning:** Graph Neural Networks, explanation techniques for graph-based methods
-- **Fuzzy Logic**: Data-driven Fuzzy Inference Systems, Fuzzy Neural Networks
+- **Explainable AI:** Explanation techniques, transparent models, XAI frameworks;
+- **Natural Language Processing:** Text classification, summarization, interpretable NLP models;
+- **Graph Learning:** Graph Neural Networks, explanation techniques for graph-based methods;
+- **Fuzzy Logic**: Data-driven Fuzzy Inference Systems, Fuzzy Neural Networks.
 
 ## In Review / Due to Be Published
 - **[July. 2024]** Matteo Rizzo, **Matteo Marcuzzo**, Alessandro Zangari, Michele Schiavinato, Andrea Albarelli, Andrea Gasparetto. _Stop overkilling simple tasks with black-box models, use more transparent models instead_. Accepted and to be presented at ICPRAI 2024
